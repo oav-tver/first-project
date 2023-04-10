@@ -1,0 +1,4 @@
+.table_theme_dark:after{
+  content: '';
+  flex: 0 1 204px;
+}
